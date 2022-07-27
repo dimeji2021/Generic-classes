@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\GenericClasses\GenericClasses\bin\Debug\netcoreapp3.1\GenericClasses.exe
+C:\Users\hp\source\repos\GenericClasses\GenericClasses\bin\Debug\netcoreapp3.1\GenericClasses.deps.json
+C:\Users\hp\source\repos\GenericClasses\GenericClasses\bin\Debug\netcoreapp3.1\GenericClasses.runtimeconfig.json
+C:\Users\hp\source\repos\GenericClasses\GenericClasses\bin\Debug\netcoreapp3.1\GenericClasses.runtimeconfig.dev.json
+C:\Users\hp\source\repos\GenericClasses\GenericClasses\bin\Debug\netcoreapp3.1\GenericClasses.dll
+C:\Users\hp\source\repos\GenericClasses\GenericClasses\bin\Debug\netcoreapp3.1\GenericClasses.pdb
+C:\Users\hp\source\repos\GenericClasses\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\GenericClasses\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\GenericClasses\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.AssemblyInfo.cs
+C:\Users\hp\source\repos\GenericClasses\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GenericClasses\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.dll
+C:\Users\hp\source\repos\GenericClasses\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.pdb
+C:\Users\hp\source\repos\GenericClasses\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.genruntimeconfig.cache
+C:\Users\hp\source\repos\GenericClasses\GenericClasses\obj\Debug\netcoreapp3.1\GenericClasses.csproj.AssemblyReference.cache
